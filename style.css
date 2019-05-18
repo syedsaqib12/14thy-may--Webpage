@@ -1,0 +1,20 @@
+.header {
+	background-color:#F00;
+    height:-9px;
+    width:100%;
+	margin-top:-7px;
+	margin-left:-9px;
+	color:#FFF;
+	
+}
+
+body {
+	margin:0;
+	}
+
+.topnav {
+  overflow: hidden;
+  background-color: #000;
+}
+  
+
