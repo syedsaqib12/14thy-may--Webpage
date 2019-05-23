@@ -15,14 +15,57 @@
   overflow: hidden;
   background-color: #000;
   width: 100%;
-  height: 50px;
+  height: 65px;
+  margin-left: -9px;
+  margin-top: inherit;
+
 }
 .topnav a {
-  float: left;
+  float: right;
   display: block;
   color: #f2f2f2;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
 }
+.topnav img {
+	height: 50px;
+	width: 100px;
+	float: left;
+	margin-left: 20px;
+	margin-top: 8px;
+}
+.container {
+	width: 100%;
+	height: 300px; 
+	margin-left: -9px;
+}
+.container h1 {
+	text-align: center;
+	margin-top:70px;
+	font-size: -webkit-xxx-large;
+}
+.container button {
+	width: 270px;
+	height: 70px;
+	background-color: black;
+	color: white;
+	font-size: 30px;
+}
+.flex-container {
+	display: flex;
+	flex-wrap: nowrap;
+	height: 400px;
+}
+.flex-container div {
+	
+	width: 100%;
+	margin:0px;
+	line-height: 75px;
+	margin-left: -8px;
+}
 
+.flex-container p {
+	text-align: center;
+	
+}
