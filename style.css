@@ -74,6 +74,9 @@
 #flex-container i {
 	font-size: 60px;
 } 
+#flex-container i:hover {
+	background-color:#F69;
+}
 .section {
 	display:flex;
 	width:100%;
@@ -111,10 +114,27 @@
 			background-color:#FFC1C1;}
 
 
-.footer i {
-	height:50px;
-  margin: auto;
-  width: 60%;
-  padding: 10px;
-  display:block;
+.footer button {
+	height:65px;
+    width: 75px;
+	alignment-adjust:central;
+	margin-top:2em;
+	border-radius:50%;
+	background-color:#906;
+ 
 }
+.footer button:hover {
+	background-color:#F0F;
+}
+.footer1 {
+	background-color:#000;
+	height:70px;
+	width:100%;
+	color:#999;
+	text-align:center;
+	}
+	.footer1 h4 {
+		color:#999;
+	text-align:center;
+	display:-webkit-inline-box;
+		}
