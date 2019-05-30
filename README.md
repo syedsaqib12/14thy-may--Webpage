@@ -1,2 +1,2 @@
 # 14thy-may--Webpage
-file:///C:/Users/quran.master/Desktop/new/index.html
+https://syedsaqib12.github.io/14thy-may--Webpage/
